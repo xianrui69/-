@@ -1,0 +1,10 @@
+D:\acexeWMS\启动项管理\启动项管理\启动项管理\bin\Debug\启动项管理.exe
+D:\acexeWMS\启动项管理\启动项管理\启动项管理\bin\Debug\启动项管理.pdb
+D:\acexeWMS\启动项管理\启动项管理\启动项管理\obj\Debug\启动项管理.Properties.Resources.resources
+D:\acexeWMS\启动项管理\启动项管理\启动项管理\obj\Debug\启动项管理.csproj.GenerateResource.Cache
+D:\acexeWMS\启动项管理\启动项管理\启动项管理\obj\Debug\启动项管理.exe
+D:\acexeWMS\启动项管理\启动项管理\启动项管理\obj\Debug\启动项管理.pdb
+D:\acexeWMS\启动项管理\启动项管理\启动项管理\bin\Debug\启动项管理.exe.config
+D:\acexeWMS\启动项管理\启动项管理\启动项管理\obj\Debug\启动项管理.Form1.resources
+D:\acexeWMS\启动项管理\启动项管理\启动项管理\obj\Debug\启动项管理.Form2.resources
+D:\acexeWMS\启动项管理\启动项管理\启动项管理\obj\Debug\启动项管理.csprojResolveAssemblyReference.cache
